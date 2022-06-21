@@ -1,4 +1,3 @@
-//java code
 import java.io.*;
 
 class ass5
